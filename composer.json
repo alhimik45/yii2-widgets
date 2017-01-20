@@ -38,5 +38,11 @@
         "psr-4": {
             "kartik\\widgets\\": ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/alhimik45/yii2-widget-datetimepicker"
+        }
+    ]
 }
